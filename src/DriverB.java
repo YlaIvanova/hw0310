@@ -1,4 +1,4 @@
- public class DriverB class Driver<PassengerCars>{
+ public class DriverB <A extends Driver> {
 
 
  }

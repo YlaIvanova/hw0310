@@ -1,3 +1,3 @@
-public class DriverC {
+public class DriverC <A extends Driver>  {
 
 }
